@@ -1,0 +1,24 @@
+@import '../src/rest.css';
+
+@font-face {
+    font-family: Faraz;
+    src: url("./fonts/Far_Zar.ttf");
+}
+
+:root{
+    --white: #ffffff;
+    --white-50: #f0f0f0;
+    --blue: #03A9F4;
+
+}
+
+body{
+    background-color: var(--white-50);
+    display: flex;
+    direction: rtl;
+}
+
+*, body , html {
+    font-family: Faraz ;
+    
+}
