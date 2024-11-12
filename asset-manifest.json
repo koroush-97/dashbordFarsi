@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dashbordFarsi/static/css/main.cb935cf2.css",
+    "main.js": "/dashbordFarsi/static/js/main.c385cec3.js",
+    "static/media/Far_Zar.ttf": "/dashbordFarsi/static/media/Far_Zar.1c47494877270a43024a.ttf",
+    "index.html": "/dashbordFarsi/index.html",
+    "main.cb935cf2.css.map": "/dashbordFarsi/static/css/main.cb935cf2.css.map",
+    "main.c385cec3.js.map": "/dashbordFarsi/static/js/main.c385cec3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb935cf2.css",
+    "static/js/main.c385cec3.js"
+  ]
+}
